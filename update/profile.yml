@@ -15,3 +15,25 @@ projects:
       - JWT
       - Colly
       - Snowflake
+
+  - icon: 💁
+    link: https://github.com/Hzurang/graduationDesign_front
+    desc: 存储毕业设计的管理端前台（使用 Vue 框架）
+    tags:
+      - vuex
+      - vue3
+      - vue-cli
+      - vue-i18n
+      - element-plus
+      - axios-vue
+
+  - icon: 📱
+    link: https://github.com/Hzurang/graduationDesign_android
+    desc: 存储毕业设计的安卓端APP（使用 java 语言）
+    tags:
+      - android
+      - sqlite
+      - gson
+      - okhttp3
+      - retrofit2
+      - mmkv
