@@ -1,5 +1,5 @@
 ### Hello, I'm 林俊燃 👋 ｜ 🏠个人博客：还未完成，暂时搭在第三方平台
-- 📫 How to reach me: 2372047566@qq.com
+- 📫 How to reach me: hzurang@gmail.com
 - 🌱 I’m currently learning DB, Golang, C++, Rust...
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hzurang)
