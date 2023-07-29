@@ -37,3 +37,9 @@ projects:
       - okhttp3
       - retrofit2
       - mmkv
+
+  - icon: 📦
+    link: https://github.com/Hzurang/wordBank
+    desc: 数据库文件——用来存储单词、文章、听力内容
+    tags:
+      - sql
