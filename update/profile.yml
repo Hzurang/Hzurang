@@ -1,0 +1,17 @@
+projects:
+  - icon: 🖥️
+    link: https://github.com/Hzurang/HPC
+    desc: 惠州学院HPC集群的使用方式（简单示例，便于老师和师弟师妹使用）
+    tags:
+      - Markdown
+
+  - icon: 🤠
+    link: https://github.com/Hzurang/graduationDesign_end
+    desc: 毕业设计(v1.0)的后端代码（主框架为gin）
+    tags:
+      - Gin
+      - Gorm
+      - Go-Redis
+      - JWT
+      - Colly
+      - Snowflake
