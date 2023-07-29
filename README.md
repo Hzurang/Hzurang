@@ -13,6 +13,7 @@
 - 🤠 [graduationDesign_end](https://github.com/Hzurang/graduationDesign_end) - 毕业设计(v1.0)的后端代码（主框架为gin）  / `Gin` `Gorm` `Go-Redis` `JWT` `Colly` `Snowflake`
 - 💁 [graduationDesign_front](https://github.com/Hzurang/graduationDesign_front) - 存储毕业设计的管理端前台（使用 Vue 框架）  / `vuex` `vue3` `vue-cli` `vue-i18n` `element-plus` `axios-vue`
 - 📱 [graduationDesign_android](https://github.com/Hzurang/graduationDesign_android) - 存储毕业设计的安卓端APP（使用 java 语言）  / `android` `sqlite` `gson` `okhttp3` `retrofit2` `mmkv`
+- 📦 [wordBank](https://github.com/Hzurang/wordBank) - 数据库文件——用来存储单词、文章、听力内容  / `sql`
 
 
 
